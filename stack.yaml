@@ -1,0 +1,6 @@
+resolver: lts-6.1
+packages:
+- '.'
+flags: {}
+extra-deps:
+- sbp-1.0.0
