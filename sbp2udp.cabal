@@ -1,6 +1,7 @@
 name:                  sbp2udp
 version:               0.0.1
-license:               AllRightsReserved
+license:               BSD3
+license-file:        LICENSE
 synopsis:              SBP to UDP
 description:           SBP to UDP
 category:              Network
